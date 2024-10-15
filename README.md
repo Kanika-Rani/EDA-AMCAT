@@ -9,21 +9,21 @@ The dataset contains information on students' academic scores, technical and sof
 * Job Designation, Job City
 * Gender, Specialization, etc.
 ### Objectives
-Understand the correlation between academic performance and job outcomes.
-Identify patterns in job locations, specializations, and designations.
-Explore the influence of skills on salary and job roles.
-Handle data cleaning and manipulation challenges to prepare data for analysis.
+* Understand the correlation between academic performance and job outcomes.
+* Identify patterns in job locations, specializations, and designations.
+* Explore the influence of skills on salary and job roles.
+* Handle data cleaning and manipulation challenges to prepare data for analysis.
 ### Key Findings
-Academic performance plays a role, but skills and specialization are critical in career outcomes.
-Salary distribution shows variation based on skills, location, and job designations.
-The preference for job cities varies significantly, with a few cities dominating the job market.
-Soft skills like communication and problem-solving are important determinants in salary outcomes.
+* Academic performance plays a role, but skills and specialization are critical in career outcomes.
+* Salary distribution shows variation based on skills, location, and job designations.
+* The preference for job cities varies significantly, with a few cities dominating the job market.
+* Soft skills like communication and problem-solving are important determinants in salary outcomes.
 ### Challenges Faced
-Data Cleaning: Handling missing values, correcting misspelled values, and dealing with incorrect data entries (e.g., datetime values in categorical columns).
-Confusion & Excitement: As a beginner, there were times of confusion while figuring out how to approach the data, but seeing results and visuals made it worthwhile.
+* Data Cleaning: Handling missing values, correcting misspelled values, and dealing with incorrect data entries (e.g., datetime values in categorical columns).
+* Confusion & Excitement: As a beginner, there were times of confusion while figuring out how to approach the data, but seeing results and visuals made it worthwhile.
 ### Tools & Technologies Used
-Programming Language: Python
-Libraries: Pandas, NumPy, Matplotlib, Seaborn, SciPy
-Jupyter Notebook for interactive data analysis
+* Programming Language: Python
+* Libraries: Pandas, NumPy, Matplotlib, Seaborn, SciPy
+* Jupyter Notebook for interactive data analysis
 ### Conclusion
 This project provided insights into the factors influencing career outcomes for fresh graduates. It highlights the importance of skills, specialization, and location in shaping job opportunities and salary.
